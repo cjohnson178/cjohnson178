@@ -1,4 +1,12 @@
-### Hi there 👋
+### Nice to meet you, I'm Christopher!
+
+I'm an Applied Mathematics student at Texas A&M (Spring '24!) with a minor in Computer Science. I've spent most of my degree contributing to industry products in my internships,
+as well as working on some cool Machine Learning / Quantun Computing research at Texas A&M. As a Math Major, I have a real passion for finding cutting edge computational solutions to real world
+problems, ranging from GPU Algorithms I've worked on professionally for image recognition to modeling the behavior of supercapacitors using Explainable AI in my research. 
+
+I'm currently working on a web application and an iOS app in order to explore other ways software can solve day to day problems.
+
+Find me on Linkedin here!
 
 <!--
 **cjohnson178/cjohnson178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
